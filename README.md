@@ -11,4 +11,4 @@ A Directory Brute Force Tool Made on the basis of asynchronous approach of pytho
 usage
 =====
 
-python3 burster.py
+python3 buster.py
